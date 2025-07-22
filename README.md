@@ -47,9 +47,34 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Subhan-Rahimoon&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 📌 Featured Projects
+
+### 🔹 [Online Retail Sales Analysis – Power BI](https://github.com/Subhan-Rahimoon/Online_Retail_Sales_Analysis)
+📊 An interactive Power BI dashboard that uncovers insights from online retail sales data — includes KPIs, category-wise sales, and monthly trends.
+
+---
+
+### 🔹 [Superstore Dashboard – Power BI](https://github.com/Subhan-Rahimoon/Superstore-Dashboard-in-Power-Bi)
+📈 Visualized Superstore data using Power BI with slicers, region-wise revenue, and sales performance tracking.
+
+---
+
+### 🔹 [Movie Data Analysis with SQL – Box Office, Ratings & Trends](https://github.com/Subhan-Rahimoon/Movie-Data-Analysis-with-SQL-Box-Office-Ratings-Trends)
+🎬 A complete SQL project analyzing movie revenues, IMDB ratings, and genre trends using advanced SQL queries and joins.
+
+---
+
+### 🔹 [Retail Sales Project – SQL](https://github.com/Subhan-Rahimoon/Retail_Sale_SQL_Project)
+🛒 Cleaned, transformed, and analyzed retail sales data using SQL — includes customer behavior, product-level performance, and trend analysis.
+
+---
+
+### 🔹 [Vehicle Sales Dashboard – Excel](https://github.com/Subhan-Rahimoon/Excel-full-meaning-full-project)
+🚗 Built a professional vehicle sales dashboard using Excel — includes dynamic charts, slicers, and KPI visuals for decision-making.
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Subhan-Rahimoon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
