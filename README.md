@@ -59,7 +59,9 @@
 📈 Visualized Superstore data using Power BI with slicers, region-wise revenue, and sales performance tracking.
 
 ---
+### 🔹 Superstore Dashboard – Power BI  
 [Pizza Sales Dashboard – Power BI](https://github.com/Subhan-Rahimoon/Pizza-Sales-Dashboard-Power-BI-Project)
+📈 Visualized Superstore data using Power BI with slicers, region-wise revenue, and sales performance tracking.
 ---
 
 ### 🔹 [Movie Data Analysis with SQL – Box Office, Ratings & Trends](https://github.com/Subhan-Rahimoon/Movie-Data-Analysis-with-SQL-Box-Office-Ratings-Trends)
